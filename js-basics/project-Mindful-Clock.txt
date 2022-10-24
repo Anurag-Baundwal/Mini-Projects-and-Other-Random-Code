@@ -1,0 +1,16 @@
+Project idea based on the live clock. 
+
+Make a big, beautiful clock.
+Ask users for a list of tasks they would like to complete, and the time at which the tasks are to be completed.
+At the right time, color the clock. Make it blink.
+Write the task to be done in big, beautiful letters. :)
+
+
+06:00:00 !!
+Good morning! Time for yoga. :)
+
+
+call monu
+xi ping pong video
+get live clock hosted
+what are progressive web apps

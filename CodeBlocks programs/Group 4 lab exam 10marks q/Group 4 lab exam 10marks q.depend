@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1569074416 source:c:\users\anurag baundwal\desktop\group 4 lab exam 10marks q\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

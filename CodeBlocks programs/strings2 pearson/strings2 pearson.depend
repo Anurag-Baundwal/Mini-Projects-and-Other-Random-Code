@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1573286902 source:c:\users\anurag baundwal\desktop\codeblocks programs\strings2 pearson\main.c
+	<stdio.h>
+	<stdlib.h>
+

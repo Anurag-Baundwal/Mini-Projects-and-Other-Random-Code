@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1570473020 source:c:\users\anurag baundwal\desktop\c program to find average of given numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+

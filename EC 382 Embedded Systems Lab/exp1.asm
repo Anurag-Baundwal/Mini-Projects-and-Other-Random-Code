@@ -1,0 +1,9 @@
+MOV A, #0
+MOV R2, A
+MOV A, 08h
+ADD A, R2
+MOV R2, A
+MOV A, 09h
+ADD A, R2
+MOV R2, A
+L: SJMP L

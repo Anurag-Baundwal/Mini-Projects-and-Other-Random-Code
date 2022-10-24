@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1575399987 source:c:\users\anurag baundwal\desktop\codeblocks programs\long double and printf\main.c
+	<stdio.h>
+	<stdlib.h>
+

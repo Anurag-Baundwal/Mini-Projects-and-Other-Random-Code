@@ -1,0 +1,25 @@
+start:
+MOV A, #0
+
+MOV R2, A
+MOV A, 08h
+
+ADD A, R2
+MOV R2, A
+
+MOV A, 09h
+ADD A, R2
+
+MOV A, 0ah
+ADD A, R2
+
+MOV A, 0bh
+ADD A, R2
+
+MOV A, 0ch
+ADD A, R2
+
+MOV A, 0dh
+ADD A, R2
+
+L: SMJP L

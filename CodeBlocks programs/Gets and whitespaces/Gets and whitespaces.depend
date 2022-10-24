@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1573927980 source:c:\users\anurag baundwal\desktop\codeblocks programs\gets and whitespaces\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
